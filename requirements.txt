@@ -2,3 +2,5 @@ python-dotenv
 requests
 google-adk
 google-adk[a2a]
+litellm
+uvicorn
